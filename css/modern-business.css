@@ -5,17 +5,19 @@
  */
 body {
   /* padding-top: 56px; */
-  font-family: dotum;
+  /* font-family: 'NanumSquare', dotum, "Times New Roman", serif; */
+  /* font-family: "Helvetica Nene", Helvetica, Arial, sans-serif; */
+  font-family:'BM JUA','배달의민족 주아',sans-serif;
 }
 
 .blog-header-logo{
-  font-size: 2.25rem;
-  color: #343a40!important;
+  font-size: 2.55rem;
+  /* color: #343a40!important; */
 }
 
-.blog-font{
+/* .blog-font{
   font-family: "Playfair Display", Georgia, "Times New Roman", serif;
-}
+} */
 
 .phone-number{
   font-weight: bold;
@@ -33,4 +35,46 @@ body {
 
 .portfolio-item {
   margin-bottom: 30px;
+}
+
+.body-row {
+  padding: 3rem;
+}
+
+.content-header {
+  /* border-bottom: 1px solid #e5e5e5; */
+  border-bottom: 2px solid #54C5CF;
+  border-top: 2px solid #54C5CF;
+  padding-top: 15px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.main-background-color {
+  /* background-color: #A6CE39; */
+  background-color: #54C5CF;
+}
+
+.address-section{
+  color: white;
+}
+
+.main-text-color{
+  /* color:  #A6CE39; */
+  color:  #54C5CF;
+}
+
+.image-caption-modified{
+  bottom: 50%!important;
+}
+
+#footer-discription{
+  /* border-right : 3px solid #ce4844; */
+  border-right : 3px solid #54C5CF;
+  text-align: center;
+  line-height: 136px;
+}
+
+.footer-detail{
+  padding-top: 1rem;
 }
