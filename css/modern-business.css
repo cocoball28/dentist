@@ -78,3 +78,16 @@ body {
 .footer-detail{
   padding-top: 1rem;
 }
+
+.doctor-intro-section{
+  background: url(../sample_image/doctor_inturo.jpg);
+  height: 748px;
+}
+
+.doctor-intro-div{
+  text-align: right;
+}
+
+.introduce-wrapper{
+  margin: 3rem;
+}
